@@ -1,0 +1,42 @@
+{
+  "status": 1,
+  "data": [
+    {
+      "id": "1",
+      "sub_item_type_id": "1",
+      "name": "Kg.",
+      "created_date": "2020-04-05 23:11:09"
+    },
+    {
+      "id": "2",
+      "sub_item_type_id": "1",
+      "name": "Ltr.",
+      "created_date": "2020-04-05 23:12:09"
+    },
+    {
+      "id": "3",
+      "sub_item_type_id": "1",
+      "name": "Gram",
+      "created_date": "2020-04-05 23:12:09"
+    },
+    {
+      "id": "4",
+      "sub_item_type_id": "1",
+      "name": "Dozen",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "5",
+      "sub_item_type_id": "1",
+      "name": "Nag",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "6",
+      "sub_item_type_id": "1",
+      "name": "ml.",
+      "created_date": "2020-04-05 23:02:21"
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JMart Vendor</string>
+    <string name="powered_by">Crafted in India</string>
+    <string name="close_application">Click OK to close application.</string>
+    <string name="cancelText">Cancel</string>
+    <string name="newOrder">New Order</string>
+    <string name="pendingOrder">Pending Order</string>
+    <string name="newItem">New Item Add</string>
+    <string name="billGenerate">Bill Generate</string>
+    <string name="allowCharacters">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_.- @:,</string>
+    <string name="info">Information.</string>
+    <string name="camera_permission">Please provide Camera permission from settings to use Camera.</string>
+    <string name="storage_permission">Please provide Storage permission from settings to use image from Gallery.</string>
+    <string name="runningFaceDetection">Please wait\u2026</string>
+    <string name="wallpaper">Setting wallpaper\u2026</string>
+    <string name="savingImage">Saving picture\u2026</string>
+    <string name="multiface_crop_help">Touch a face to begin.</string>
+    <string name="imageIsNotGood">Image Size is not good</string>
+    <string name="please_select_image_less_than_10MB">Please select image less than 10MB.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

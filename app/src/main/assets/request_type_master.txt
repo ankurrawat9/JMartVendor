@@ -1,0 +1,68 @@
+{
+
+   "status": 1,
+    "data": [
+      {
+        "request_type_master_id": "1",
+        "request_type_master_name": "Food",
+        "created_date": "2020-03-25 12:00:00"
+      },
+      {
+        "request_type_master_id": "2",
+        "request_type_master_name": "Medicine",
+        "created_date": "2020-03-25 12:00:00"
+      },
+      {
+        "request_type_master_id": "3",
+        "request_type_master_name": "Sabji/Fruits",
+        "created_date": "2020-03-25 12:00:00"
+      },
+      {
+        "request_type_master_id": "4",
+        "request_type_master_name": "Doodh",
+        "created_date": "2020-03-25 12:00:00"
+      },
+      {
+        "request_type_master_id": "5",
+        "request_type_master_name": "SOS",
+        "created_date": "2020-03-25 12:00:00"
+      },
+      {
+        "request_type_master_id": "6",
+        "request_type_master_name": "Kirana",
+        "created_date": "2020-03-25 12:00:00"
+      },
+      {
+        "request_type_master_id": "7",
+        "request_type_master_name": "Others",
+        "created_date": "2020-03-25 12:00:00"
+      },
+      {
+        "request_type_master_id": "8",
+        "request_type_master_name": "Amul Milk",
+        "created_date": "2020-04-05 23:02:21"
+      },
+      {
+        "request_type_master_id": "9",
+        "request_type_master_name": "Sanchi Milk",
+        "created_date": "2020-04-05 22:57:16"
+      },
+      {
+        "request_type_master_id": "10",
+        "request_type_master_name": "Only Vegetable ",
+        "created_date": "2020-04-05 19:15:33"
+      },
+      {
+        "request_type_master_id": "11",
+        "request_type_master_name": "Only Fruits ",
+        "created_date": "2020-04-05 19:15:33"
+      },
+      {
+        "request_type_master_id": "12",
+        "request_type_master_name": "Sanitation Products",
+        "created_date": "2020-04-05 23:02:21"
+      }
+    ],
+    "error": null
+  
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#68ab30</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#3FBABF</color>
+    <color name="colorAccentBack">#819ae0</color>
+    <color name="colorAccentBackDark">#404d70</color>
+    <color name="tabLayout">#819AE0</color>
+    <color name="orangeColor">#f67812</color>
+
+    <color name="bgColor">#FAFAFA</color>
+    <color name="stripColor">#F1F1F1</color>
+    <!--<color name="bgColor">#EEEEEE</color>-->
+    <color name="white">#ffffff</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="hinttextcolor">#a8a8a8</color>
+    <color name="add">#E85F69</color>
+    <color name="green">#68ab30</color>
+    <color name="yellow">#ffbf00</color>
+
+</resources>

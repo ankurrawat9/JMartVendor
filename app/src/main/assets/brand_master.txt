@@ -1,0 +1,552 @@
+{
+  "status": 1,
+  "data": [
+    {
+      "id": "1",
+      "sub_item_type_id": "1",
+      "brand_name": "Aashirwad",
+      "created_date": "2020-04-05 23:21:12"
+    },
+    {
+      "id": "2",
+      "sub_item_type_id": "1",
+      "brand_name": "Patanjali",
+      "created_date": "2020-04-05 23:21:12"
+    },
+    {
+      "id": "3",
+      "sub_item_type_id": "2",
+      "brand_name": "Chinnor",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "4",
+      "sub_item_type_id": "2",
+      "brand_name": "India Gate",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "5",
+      "sub_item_type_id": "3",
+      "brand_name": "Fortune",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "6",
+      "sub_item_type_id": "3",
+      "brand_name": "Dhara",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "7",
+      "sub_item_type_id": "4",
+      "brand_name": "Fortune",
+      "created_date": "2020-04-05 23:23:37"
+    },
+    {
+      "id": "8",
+      "sub_item_type_id": "4",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:23:37"
+    },
+    {
+      "id": "9",
+      "sub_item_type_id": "5",
+      "brand_name": "Tata",
+      "created_date": "2020-04-05 23:23:37"
+    },
+    {
+      "id": "10",
+      "sub_item_type_id": "5",
+      "brand_name": "Captain Cook",
+      "created_date": "2020-04-05 23:23:37"
+    },
+    {
+      "id": "11",
+      "sub_item_type_id": "6",
+      "brand_name": "Godred No 1",
+      "created_date": "2020-04-05 23:25:19"
+    },
+    {
+      "id": "12",
+      "sub_item_type_id": "6",
+      "brand_name": "Everest",
+      "created_date": "2020-04-05 23:25:19"
+    },
+    {
+      "id": "13",
+      "sub_item_type_id": "7",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:31:14"
+    },
+    {
+      "id": "14",
+      "sub_item_type_id": "8",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:31:14"
+    },
+    {
+      "id": "15",
+      "sub_item_type_id": "9",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:31:14"
+    },
+    {
+      "id": "16",
+      "sub_item_type_id": "10",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:31:14"
+    },
+    {
+      "id": "17",
+      "sub_item_type_id": "1",
+      "brand_name": "Laxmi Bhog Atta",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "18",
+      "sub_item_type_id": "1",
+      "brand_name": "Fortune Chakki Fresh Atta",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "19",
+      "sub_item_type_id": "1",
+      "brand_name": "Nature Fresh Sampoorna Chakki Fresh Atta",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "20",
+      "sub_item_type_id": "1",
+      "brand_name": "Organic Tattva Wheat Flour",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "21",
+      "sub_item_type_id": "1",
+      "brand_name": "Annapurna Farm Fresh Atta",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "22",
+      "sub_item_type_id": "1",
+      "brand_name": "Rajdhani Chakki Atta",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "23",
+      "sub_item_type_id": "11",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "24",
+      "sub_item_type_id": "8",
+      "brand_name": "Amul",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "25",
+      "sub_item_type_id": "8",
+      "brand_name": "Sanchi",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "26",
+      "sub_item_type_id": "1",
+      "brand_name": "Malwa agro atta ",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "27",
+      "sub_item_type_id": "1",
+      "brand_name": "Paras Gold atta ",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "28",
+      "sub_item_type_id": "1",
+      "brand_name": "Heera Moti",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "29",
+      "sub_item_type_id": "2",
+      "brand_name": "KAALIMOOCH",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "30",
+      "sub_item_type_id": "2",
+      "brand_name": "India gate Minimogra 1",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "31",
+      "sub_item_type_id": "2",
+      "brand_name": "India gate Minimogra 2",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "32",
+      "sub_item_type_id": "2",
+      "brand_name": "Dawat Rojana",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "33",
+      "sub_item_type_id": "2",
+      "brand_name": "Basmati",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "34",
+      "sub_item_type_id": "4",
+      "brand_name": "No brand",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "35",
+      "sub_item_type_id": "3",
+      "brand_name": "Mahakosh oil",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "36",
+      "sub_item_type_id": "3",
+      "brand_name": "Fortune sunflower oil",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "37",
+      "sub_item_type_id": "3",
+      "brand_name": "Tulsi",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "38",
+      "sub_item_type_id": "17",
+      "brand_name": "Ghadi",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "39",
+      "sub_item_type_id": "17",
+      "brand_name": "Tan Man",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "40",
+      "sub_item_type_id": "17",
+      "brand_name": "Rin",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "41",
+      "sub_item_type_id": "17",
+      "brand_name": "Wheel",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "42",
+      "sub_item_type_id": "18",
+      "brand_name": "Lux",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "43",
+      "sub_item_type_id": "18",
+      "brand_name": "No 1",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "44",
+      "sub_item_type_id": "18",
+      "brand_name": "Life Boy",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "45",
+      "sub_item_type_id": "6",
+      "brand_name": "Shalimar",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "46",
+      "sub_item_type_id": "6",
+      "brand_name": "Red Label",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "47",
+      "sub_item_type_id": "6",
+      "brand_name": "Nilons Pickle ",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "48",
+      "sub_item_type_id": "5",
+      "brand_name": "Tata",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "49",
+      "sub_item_type_id": "15",
+      "brand_name": "Yippee ",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "50",
+      "sub_item_type_id": "6",
+      "brand_name": "Shyambhog",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "51",
+      "sub_item_type_id": "13",
+      "brand_name": "MDH",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "52",
+      "sub_item_type_id": "3",
+      "brand_name": "King Soyabeen",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "53",
+      "sub_item_type_id": "3",
+      "brand_name": "Nova",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "54",
+      "sub_item_type_id": "5",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "55",
+      "sub_item_type_id": "6",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "56",
+      "sub_item_type_id": "14",
+      "brand_name": "TimTim",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "57",
+      "sub_item_type_id": "6",
+      "brand_name": "Cadbury ",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "58",
+      "sub_item_type_id": "13",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "59",
+      "sub_item_type_id": "14",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "60",
+      "sub_item_type_id": "15",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "61",
+      "sub_item_type_id": "16",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "62",
+      "sub_item_type_id": "17",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "63",
+      "sub_item_type_id": "18",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "64",
+      "sub_item_type_id": "2",
+      "brand_name": "No Brand",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "65",
+      "sub_item_type_id": "16",
+      "brand_name": "Chavi",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "66",
+      "sub_item_type_id": "16",
+      "brand_name": "Mangla 2012",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "67",
+      "sub_item_type_id": "16",
+      "brand_name": "Local Brand Dhoop",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "68",
+      "sub_item_type_id": "17",
+      "brand_name": "Harpic ",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "69",
+      "sub_item_type_id": "17",
+      "brand_name": "Colin",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "70",
+      "sub_item_type_id": "17",
+      "brand_name": "Hit",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "71",
+      "sub_item_type_id": "5",
+      "brand_name": "Bhaskar",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "72",
+      "sub_item_type_id": "15",
+      "brand_name": "Maggi",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "73",
+      "sub_item_type_id": "15",
+      "brand_name": "Parle",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "74",
+      "sub_item_type_id": "6",
+      "brand_name": "Colgate",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "75",
+      "sub_item_type_id": "6",
+      "brand_name": "Unilever",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "76",
+      "sub_item_type_id": "18",
+      "brand_name": "Unilever",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "77",
+      "sub_item_type_id": "6",
+      "brand_name": "Patanjali Ayurved",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "78",
+      "sub_item_type_id": "18",
+      "brand_name": "Patanjali Ayurved",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "79",
+      "sub_item_type_id": "18",
+      "brand_name": "Emami",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "80",
+      "sub_item_type_id": "18",
+      "brand_name": "Heinz India",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "81",
+      "sub_item_type_id": "18",
+      "brand_name": "Bajaj",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "82",
+      "sub_item_type_id": "18",
+      "brand_name": "Hindustan Unilever",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "83",
+      "sub_item_type_id": "6",
+      "brand_name": "Adarsh Pharmaceutical",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "84",
+      "sub_item_type_id": "18",
+      "brand_name": "Dabur",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "85",
+      "sub_item_type_id": "6",
+      "brand_name": "Amulya ",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "86",
+      "sub_item_type_id": "13",
+      "brand_name": "Anmol",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "87",
+      "sub_item_type_id": "12",
+      "brand_name": "Khadi Meghdoot ",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "88",
+      "sub_item_type_id": "12",
+      "brand_name": "Kangxiang ",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "89",
+      "sub_item_type_id": "12",
+      "brand_name": "KN95",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "90",
+      "sub_item_type_id": "12",
+      "brand_name": "Spectrum Biocides India Private Limited",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "91",
+      "sub_item_type_id": "12",
+      "brand_name": "No Brand",
+      "created_date": null
+    }
+  ],
+  "error": null
+}

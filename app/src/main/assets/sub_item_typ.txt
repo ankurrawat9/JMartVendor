@@ -1,0 +1,120 @@
+{
+  "status": 1,
+  "data": [
+    {
+      "id": "1",
+      "request_type_id": "6",
+      "name": "Aata",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "2",
+      "request_type_id": "6",
+      "name": "Rice",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "3",
+      "request_type_id": "6",
+      "name": "Oil",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "4",
+      "request_type_id": "6",
+      "name": "Daal",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "5",
+      "request_type_id": "6",
+      "name": "Salt",
+      "created_date": "2020-04-05 23:03:01"
+    },
+    {
+      "id": "6",
+      "request_type_id": "6",
+      "name": "Others",
+      "created_date": "2020-04-05 23:03:01"
+    },
+    {
+      "id": "7",
+      "request_type_id": "3",
+      "name": "Sabji",
+      "created_date": "2020-04-05 23:03:30"
+    },
+    {
+      "id": "8",
+      "request_type_id": "4",
+      "name": "Milk",
+      "created_date": "2020-04-05 23:03:30"
+    },
+    {
+      "id": "9",
+      "request_type_id": "1",
+      "name": "Free Food",
+      "created_date": "2020-04-05 23:04:08"
+    },
+    {
+      "id": "10",
+      "request_type_id": "2",
+      "name": "Medicine",
+      "created_date": "2020-04-05 23:04:08"
+    },
+    {
+      "id": "11",
+      "request_type_id": "5",
+      "name": "Fruits",
+      "created_date": "2020-04-05 23:05:14"
+    },
+    {
+      "id": "12",
+      "request_type_id": "6",
+      "name": "Emergency",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "13",
+      "request_type_id": "6",
+      "name": "Masala and Spices ",
+      "created_date": "2020-04-05 23:02:21"
+    },
+    {
+      "id": "14",
+      "request_type_id": "6",
+      "name": "Dry Fruits ",
+      "created_date": "2020-04-05 22:57:16"
+    },
+    {
+      "id": "15",
+      "request_type_id": "6",
+      "name": "Packaged Food and Snacks ",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "16",
+      "request_type_id": "6",
+      "name": "Pooja Needs",
+      "created_date": "2020-04-05 23:22:09"
+    },
+    {
+      "id": "17",
+      "request_type_id": "6",
+      "name": "Cleaning and Household",
+      "created_date": "2020-04-05 19:15:33"
+    },
+    {
+      "id": "18",
+      "request_type_id": "6",
+      "name": "Beauty & Hygiene",
+      "created_date": "2020-04-06 20:21:55"
+    },
+    {
+      "id": "19",
+      "request_type_id": "12",
+      "name": "Sanitization",
+      "created_date": "2020-04-05 23:02:21"
+    }
+  ],
+  "error": null
+}
